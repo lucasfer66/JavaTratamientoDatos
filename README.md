@@ -1,2 +1,1 @@
-# PRBD-
-Practica 2- Repaso de Java
+Tratamiento de fichero de texto con Java.
